@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sanskruti Kothari</h1>
 
 <h3 align="center">
-Data Science Intern • Diploma in Computer Engineering • AI & ML Enthusiast
+Data Science Intern • Diploma in Computer Engineering • AI & Data Science Enthusiast
 </h3>
 
 <p align="center">
-Passionate about transforming data into meaningful insights and building practical applications using AI, Machine Learning, and Full Stack Development.
+Passionate about building real-world solutions using Data Science, Artificial Intelligence, and Full Stack Development.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sanskrutikothari18&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=sanskrutikothari18&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/sanskrutikothari18?style=for-the-badge&logo=github" />
+
+<img src="https://img.shields.io/github/stars/sanskrutikothari18?style=for-the-badge&logo=github" />
 </p>
 
 ---
@@ -18,52 +22,44 @@ Passionate about transforming data into meaningful insights and building practic
 
 🎓 Diploma Student in Computer Engineering
 
-💼 Data Science Intern
+💼 Currently working as a **Data Science Intern**
 
 📍 Pune, Maharashtra, India
 
-💡 Interested in solving real-world problems using Data Science, Artificial Intelligence, and Software Development.
+💡 Passionate about solving real-world problems through Data Science and Software Development.
 
-🌱 Continuously learning new technologies and building hands-on projects.
+🚀 I enjoy learning new technologies, building practical projects, and continuously improving my technical skills.
 
 ---
 
-# 🚀 Current Focus
+# 🚀 What I'm Currently Working On
 
-- Data Science
-- Machine Learning
-- Python Development
-- SQL & Database Management
-- Full Stack Web Development
-- Prompt Engineering
-- Git & GitHub
+- 📊 Data Science & Machine Learning
+- 🌐 Full Stack Web Development
+- 🧠 Artificial Intelligence
+- ⚡ Backend Development
+- 💻 Real-world Software Projects
 
 ---
 
 # 🛠 Tech Stack
 
-### Programming Languages
+### 👨‍💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 </p>
 
-### Frameworks & Libraries
+### ⚙️ Frameworks & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql" />
 </p>
 
-### Database
+### 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
@@ -71,69 +67,99 @@ Passionate about transforming data into meaningful insights and building practic
 # 🚀 Featured Projects
 
 ## 🎯 SkillForge AI
-AI-powered career guidance platform that helps students discover learning paths and career opportunities.
 
-**Tech Stack:** Python • AI • Web Development
+An AI-powered career guidance platform that helps students explore career paths, discover learning resources, and receive personalized recommendations.
+
+**Tech Stack:** Python • AI • Machine Learning
 
 ---
 
-## 🌐 Paripurn Maharashtra
-Educational portal providing information related to Maharashtra, competitive exams, and learning resources.
+## 🧠 QuizForge 
+
+A real-time multiplayer quiz platform inspired by Kahoot where users can create quiz rooms, join using a room code, answer questions live, and compete on a dynamic leaderboard.
+
+### Key Features
+
+- 🎮 Real-time Multiplayer Quiz
+- 👨‍🏫 Host & Player Modes
+- 📊 Live Leaderboard
+- ⏱ Timer-based Questions
+- 🔗 Room Code System
+- ⚡ Socket.IO Real-time Communication
+- 📱 Responsive UI
+
+**Tech Stack:** React • Node.js • Express • MongoDB • Socket.IO
+
+---
+
+## 🌏 Paripurn Maharashtra
+
+A web platform providing educational resources, competitive exam guidance, and information about Maharashtra.
 
 **Tech Stack:** HTML • CSS • JavaScript
 
 ---
 
-## 🤖 SmartOps Driver Platform
-Driver management system developed during my Data Science internship.
+## 🤖 AI for Beginners
 
-**Tech Stack:** MERN Stack • MongoDB
+A beginner-friendly learning platform introducing Artificial Intelligence concepts through interactive content and practical examples.
 
----
-
-## 📚 AI for Beginners
-A beginner-friendly platform introducing Artificial Intelligence concepts through simple examples and projects.
+**Tech Stack:** HTML • CSS • JavaScript
 
 ---
 
-# 📖 Currently Learning
+# 🌱 Currently Learning
 
-- Machine Learning
 - Data Analysis
-- Pandas & NumPy
-- Data Visualization
-- SQL Optimization
+- Python for Data Science
+- SQL
 - MERN Stack
-- Open Source Collaboration
+- REST APIs
+- Prompt Engineering
+- GitHub Best Practices
 
 ---
 
-# 🎯 2026 Goals
+# 🏆 Achievements
 
-- ✅ Complete my Data Science Internship
-- 📊 Build impactful Data Science projects
-- 🤖 Learn Machine Learning in depth
-- 🌍 Contribute to Open Source
-- 📈 Strengthen Problem Solving
-- ☁️ Explore Cloud & AI Deployment
+- 💼 Data Science Intern
+- 🎓 Diploma in Computer Engineering
+- 📜 Participant – Latent Space Reasoning Workshop
+- 🌱 Continuously building real-world software projects
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanskrutikothari18&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskrutikothari18&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanskrutikothari18&show_icons=true&theme=tokyonight"/>
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskrutikothari18&theme=tokyonight"/>
+# 📈 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskrutikothari18&layout=compact&theme=tokyonight"/>
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskrutikothari18&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌟 Areas of Interest
+# 🎯 2026 Goals
+
+- ✅ Complete my Data Science Internship
+- 🚀 Build impactful AI & Data Science projects
+- 📊 Strengthen Python & Machine Learning skills
+- 🌍 Contribute to Open Source
+- 💻 Develop scalable Full Stack applications
+- 📚 Keep learning and improving every day
+
+---
+
+# 💡 Areas of Interest
 
 - 📊 Data Science
 - 🤖 Artificial Intelligence
@@ -146,23 +172,30 @@ A beginner-friendly platform introducing Artificial Intelligence concepts throug
 
 # 📫 Connect With Me
 
-<p>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sanskruti-kothari-0a14233b7">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="https://github.com/sanskrutikothari18">
-GitHub
-</a> •
-<a href="https://www.linkedin.com/in/sanskruti-kothari-0a14233b7">
-LinkedIn
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+# 💬 Quote
+
+> *"Every project is an opportunity to learn, improve, and create something meaningful."*
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my GitHub profile! ⭐
+</h3>
+
 <p align="center">
-
-⭐ Thanks for visiting my GitHub profile!
-
-I'm always excited to learn, collaborate, and contribute to meaningful projects.
-
+I'm always open to learning, collaborating, and building meaningful software that creates real-world impact.
 </p>
